@@ -1,0 +1,14 @@
+.tarea-container {
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    user-select: none;
+    cursor: pointer;
+    
+}
+
+.through{
+    text-decoration: line-through;
+    background-color: aqua;
+}
